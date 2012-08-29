@@ -1,11 +1,11 @@
 {
   "author": "Simon C. Wex <swex@mozilla.com> (http://simonwex.com)",
-  "name": "SmokeJumper",
+  "name": "Boilerplate",
   "version": "0.0.0",
-  "homepage": "https://github.com/simonwex/smokejumper",
+  "homepage": "https://github.com/simonwex/boilerplate.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/simonwex/smokejumper.git"
+    "url": "git://github.com/simonwex/boilerplate.js.git"
   },
   "dependencies": {
     "express": "latest",
